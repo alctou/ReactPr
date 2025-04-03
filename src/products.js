@@ -1,4 +1,4 @@
-export const product = [
+export const typeProduct = [
     {
         id: 0,
         text: "Все тавары",
